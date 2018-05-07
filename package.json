@@ -1,0 +1,10 @@
+{
+  "name": "nas-prerender",
+  "version": "1.0.0",
+  "description": "",
+  "author": "nassoft",
+  "license": "MIT",
+  "dependencies": {
+    "prerender": "^5.4.2"
+  }
+}
